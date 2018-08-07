@@ -2,3 +2,5 @@
 
 本书作为 Apache Sqoop Cookbook 的中文译本，主要为学习目的！
 
+![](/assets/import.png)
+
