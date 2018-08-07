@@ -1,3 +1,4 @@
-# My Awesome Book
+# [Hadoop\_SqoopCookBook\_CHN](https://github.com/Shadow-Hunter-X/Hadoop_SqoopCookBook_CHN)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书作为 Apache Sqoop Cookbook 的中文译本，主要为学习目的
+
