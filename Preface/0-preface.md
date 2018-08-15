@@ -12,4 +12,7 @@
 <font color=#00ffff>chapter - 1</font> 将带你了解在使用sqoop时的先决条件。你将学习到在hadoop集群的任意节点上下载，安装，配置sqoop.
 <font color=#00ffff>chapter - 2,3,4</font> 专注于使用各种示例将数据从数据到如到Hadoop系统中。如果你需要将生成，已加工，备份数据，将数据从Hadoop传输到数据库，那么<font color=#00ffff>chapter - 5</font>
 
-<font color=#00ffff>chapter - 6</font> 将集中在将Hadoop系统和sqoop的集成,我们将演示如何Hadoop中的Oozie任务调度集成。
+<font color=#00ffff>chapter - 6</font> 将集中在将Hadoop系统和sqoop的集成,我们将演示如何Hadoop中的Oozie任务调度集成;与如何将数据载入到Hadoop数据仓库和HBase数据库中。
+
+对于更高级的操作，sqoop支持依托关系数据库本地特征的特殊连接器。sqoop包括Mysql和PostgreSQL的本地连接器，并且有针对Teradata, Netezza, Couch‐
+base, Oracle 的连接器供下载。
