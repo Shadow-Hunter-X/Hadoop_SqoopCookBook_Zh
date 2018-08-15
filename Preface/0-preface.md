@@ -8,3 +8,8 @@
 
   如果你正在阅读本书，那么你之前可能已经对hadoop有所了解，特别是通过 Aaron Kimball 的相关著作，
 从以前的了解中，以已经知道在hadoop和数据库中数据传输是进行sqoop的优化操作。但显而易见优化操作时针对高级用户的,一个命令行接口提供60个参数，不仅是功能强大也是让人迷惑的。在本书中，将聚焦于参数的常规应用，以帮助你配置，使用sqoop在你自己的环境中。
+
+<font color=#00ffff>chapter - 1</font> 将带你了解在使用sqoop时的先决条件。你将学习到在hadoop集群的任意节点上下载，安装，配置sqoop.
+<font color=#00ffff>chapter - 2,3,4</font> 专注于使用各种示例将数据从数据到如到Hadoop系统中。如果你需要将生成，已加工，备份数据，将数据从Hadoop传输到数据库，那么<font color=#00ffff>chapter - 5</font>
+
+<font color=#00ffff>chapter - 6</font> 将集中在将Hadoop系统和sqoop的集成,我们将演示如何Hadoop中的Oozie任务调度集成。
