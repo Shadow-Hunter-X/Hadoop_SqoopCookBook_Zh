@@ -3,6 +3,7 @@
 * [简介](README.md)
 
 * [前言](Preface)
+    * [preface](Preface/0-preface.md)
     * [sqoop 2](Preface/1-Sqoop2.md)
     * [本书约定](Preface/2-本书约定.md)
     * [本书代码](Preface/3-本书代码.md)
