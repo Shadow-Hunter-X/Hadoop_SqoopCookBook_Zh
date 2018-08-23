@@ -11,7 +11,7 @@
     * [下载和安装sqoop](Chapter1-开始/1.1下载和安装sqoop.md)
     * [安装JDBC连接器.md](Chapter1-开始/1.2安装JDBC连接器.md)
     * [安装特定连接器.md](Chapter1-开始/1.3安装特定连接器.md)
-    * [允许sqoop.md](Chapter1-开始/1.4运行sqoop.md)
+    * [运行sqoop.md](Chapter1-开始/1.4运行sqoop.md)
     * [获取sqoop帮助信息.md](Chapter1-开始/1.5获取sqoop的帮助信息.md)
 * [第二章](Chapter2-数据导入/README.md)
     * [从整张表中导入数据](Chapter2-数据导入/2.1从整张表中导入数据.md)
