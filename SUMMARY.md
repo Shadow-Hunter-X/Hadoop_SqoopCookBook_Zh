@@ -60,7 +60,7 @@
     * [将所有行导入HBase](Chapter6-sqoop和hadoop系统集成/6.10将所有行导入HBase.md)
     * [提升导入HBase时的性能](Chapter6-sqoop和hadoop系统集成/6.11提升导入Hase时的性能.md)
 * [第七章](Chapter7-定制化的sqoop连接器/README.md)
-    * [直接重写在postgresql的bool值](Chapter7-定制化的sqoop连接器/7.1直接重写在postgresql的bool值.md)
+    * [直接重写在postgresql的bool值](Chapter7-定制化的Sqoop连接器/7.1直接重写在postgresql的bool值.md)
     * [向postgresql中导入自定义存储模式的表](Chapter7-定制化的sqoop连接器/7.2向postgresql中导入自定义存储模式的表.md)
     * [使用pg_bulkload从postgresql导出数据](Chapter7-定制化的sqoop连接器/7.3使用pg_bulkload从postgresql导出数据.md)
     * [连接到Mysql](Chapter7-定制化的sqoop连接器/7.4连接到Mysql.md)
